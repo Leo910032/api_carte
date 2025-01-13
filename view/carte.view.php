@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../public/design/style.css" type="text/css">
-    <link rel="stylesheet" href="../public/design/styleCarte.css" type="text/css">
+    <link rel="stylesheet" href="public/design/style.css" type="text/css">
+    <link rel="stylesheet" href="public/design/styleCarte.css" type="text/css">
     <!-- Pour les logos menu hamburger-->
-    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Site archéologique</title>
 </head>
 <body>
     <header>
         <nav>
             <ul class="navbar">
-                <li class="logoNav"><a href="index.html"><img src="img/logo.png" alt="Logo" class="logoImg"></a></li>
+                <li class="logoNav"><a href="index.html"><img src="public/design/img/logo.png" alt="Logo" class="logoImg"></a></li>
                 <input type="checkbox" id="check">
                 <span class="menu">
                     <li><a class="lienHeader" href="index.html">Accueil</a></li>
@@ -32,7 +32,7 @@
             <h2>Région : Rhone-Alpes</h2>
             <div id="carteScroll">
                 <a href="" class="contenu">
-                    <img id="imgSite" src="../public/design/img/site5.png" alt="Site archéologique">
+                    <img id="imgSite" src="public/design/img/site5.png" alt="Site archéologique">
                     <div class="contenuTexte">
                         <p id="nom">Nom</p>                        
                         <p id="prix">Prix</p>
@@ -45,7 +45,7 @@
                 <!-- Un "a" est un site -->
 
                 <a href="" class="contenu">
-                    <img id="imgSite" src="../public/design/img/site5.png" alt="Site archéologique">
+                    <img id="imgSite" src="public/design/img/site5.png" alt="Site archéologique">
                     <div class="contenuTexte">
                         <p id="nom">Nom</p>                        
                         <p id="prix">Prix</p>
@@ -55,7 +55,7 @@
                     </div>
                 </a>
                 <a href="" class="contenu">
-                    <img id="imgSite" src="../public/design/img/site5.png" alt="Site archéologique">
+                    <img id="imgSite" src="public/design/img/site5.png" alt="Site archéologique">
                     <div class="contenuTexte">
                         <p id="nom">Nom</p>                        
                         <p id="prix">Prix</p>
@@ -65,7 +65,7 @@
                     </div>
                 </a>
                 <a href="" class="contenu">
-                    <img id="imgSite" src="../public/design/img/site5.png" alt="Site archéologique">
+                    <img id="imgSite" src="public/design/img/site5.png" alt="Site archéologique">
                     <div class="contenuTexte">
                         <p id="nom">Nom</p>                        
                         <p id="prix">Prix</p>
@@ -75,7 +75,7 @@
                     </div>
                 </a>
                 <a href="" class="contenu">
-                    <img id="imgSite" src="../public/design/img/site5.png" alt="Site archéologique">
+                    <img id="imgSite" src="public/design/img/site5.png" alt="Site archéologique">
                     <div class="contenuTexte">
                         <p id="nom">Nom</p>                        
                         <p id="prix">Prix</p>
@@ -87,7 +87,7 @@
             </div>
         </div>
         <div id="carteDroite">
-            <img src="img/carte.png" alt="Carte régionale">
+            <img src="public/design/img/carte.png" alt="Carte régionale">
         </div>
     </section>
         <section id="info">
@@ -97,7 +97,7 @@
                     <h2 id="nomLieu">Le cirque du fun</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur nemo, porro quia mollitia temporibus ex dolores, corporis quod impedit eligendi maiores. Consequuntur corporis, magnam ad velit cupiditate fugit consequatur recusandae.</p>
                 </div>
-                <img id="imgSite" src="img/site6.png" alt="">
+                <img id="imgSite" src="public/design/img/site6.png" alt="">
             </div>
         
             <!-- Contenu additionnel en dessous -->
@@ -129,56 +129,56 @@
                 <h1>Commentaires pour ce site archéologique</h1>
                 <div class="commScroll">
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>
                         </div>
                     </div>
                     <div class="comm">
-                        <img class="imgComm" src="./img/site2.png" alt="Avatar">
+                        <img class="imgComm" src="public/design/img/site2.png" alt="Avatar">
                         <div class="infosComm">
                             <h2>Nom de l'utilisateur</h2>
                             <article>Texte du commentaire</article>

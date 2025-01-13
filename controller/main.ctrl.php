@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__.'/../framework/view.fw.php');
+include_once('framework/view.fw.php');
 
 
 $view = new View();

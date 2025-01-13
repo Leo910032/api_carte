@@ -1,10 +1,10 @@
 <?php
 // Récupération de le controleur à activer 
 // Par défaut on lance l'action main
-$ctrl = $_GET['ctrl'] ?? 'carte';
+$ctrl = $_REQUEST['ctrl'] ?? 'main';
 // Liste des controleurs possibles
 // Cette liste permet d'être sûr de ne pas charger de fichier inconnu
-const CTRLS = array('carte');
+const CTRLS = array('main');
 
 // Vérification que l'action est correcte
 if (! in_array($ctrl,CTRLS)) {
