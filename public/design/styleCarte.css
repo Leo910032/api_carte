@@ -13,6 +13,22 @@
     height: 600px;
 }
 
+.iconeCarte{
+    position: absolute;
+    width: 20px !important;
+    height: 20px !important;
+    transition: 200ms;
+}
+
+#Limousin{
+    left: 20%;
+    top: 30%;
+}
+
+.iconeCarte:hover{
+    transform: scale(1.5);
+}
+
 #carteGauche {
     display: flex;
     flex-direction: column;
@@ -74,6 +90,7 @@ p {
 }
 
 #carteDroite {
+    position: relative;
     height: 100%;
 }
 
