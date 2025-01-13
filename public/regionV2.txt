@@ -1,0 +1,25 @@
+Ancient     Nouveau 
+
+Alsace => Grand Est 44
+Aquitaine =>Nouvelle-Aquitaine 75
+Auvergne => Auvergne-Rhône-Alpes 84
+Basse-Normandie => Normandie 28
+Bourgogne => Bourgogne-Franche-Comté 27
+Bretagne  => Bretagne 53
+Centre =>Centre-Val de Loire 24
+Chamonix =>  Auvergne-Rhône-Alpes 84
+Champagne-Ardenne => Grand Est 44
+Corse => Corse 94
+Franche-Comté => Bourgogne-Franche-Comt 27 
+Ile-de-France => Ile-de-France 11
+Languedoc-Roussillon => La Occitanie 76
+Limousin => Nouvelle-Aquitaine 75
+Lorraine => Grand Est 44
+Midi-Pyrénées => Occitanie 74
+Nord-Pas-de-Calais => Hauts-de-France 32
+Pays de la Loire => Pays de la Loire  52
+Picardie => Hauts-de-France 32
+Plage du Soleil, Nice => Provence-Alpes-Côte d'Azur 93
+Poitou-Charentes => 	Nouvelle-Aquitaine 75
+Provence-Alpes-Côte d'Azur => Provence-Alpes-Côte d'Azur 93
+Rhône-Alpes => Auvergne-Rhône-Alpes 84
